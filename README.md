@@ -51,3 +51,7 @@ Cria um servidor local para os testes e visualizações
 ```bash
 python3 manage.py runserver
 ```
+
+## Parei nos 26 min
+
+https://www.youtube.com/watch?v=JJPO-DjhW4s
