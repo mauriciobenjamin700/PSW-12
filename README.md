@@ -52,6 +52,27 @@ Cria um servidor local para os testes e visualizações
 python3 manage.py runserver
 ```
 
-## Parei nos 26 min
+Cria as migrations do banco de dados
+
+```bash
+python3 manage.py makemigrations
+```
+
+Executa as migrations
+
+```bash
+python3 manage.py migrate
+```
+
+Criando Super User
+
+```bash
+python3 manage.py createsuperuser
+```
+
+Senha de testes: 123
+
+
+## Parei nos 1h 28 min
 
 https://www.youtube.com/watch?v=JJPO-DjhW4s
